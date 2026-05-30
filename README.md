@@ -200,7 +200,7 @@ Content-Type: application/json
 
 ```
 ┌─────────────────────────────────────────────────────┐
-│         User Registration Flow                       │
+│         User Registration Flow                      │
 ├─────────────────────────────────────────────────────┤
 │ 1. User sends email, name, password                 │
 │ 2. Validate email format & password strength        │
